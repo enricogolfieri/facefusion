@@ -1,3 +1,5 @@
+Open FaceFusion: be free of using any image type.
+
 FaceFusion
 ==========
 
